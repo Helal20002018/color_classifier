@@ -1,0 +1,2 @@
+function_pkg
+-DCATKIN_DEVEL_PREFIX=/home/abdo/color_classifier/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/abdo/color_classifier/catkin_ws/install -G Unix Makefiles

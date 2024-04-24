@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/abdo/color_classifier/catkin_ws/devel/setup.sh
